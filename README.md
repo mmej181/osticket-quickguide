@@ -30,30 +30,56 @@ c. Resolve </p>
 - Assign / Communicate
 - Troubleshoot
 - Resolution
+</br>
 
-<h2>Lifecycle Stages</h2>
+<h2>Stages</h2>
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Stage 1: Intake</h2>
+
+Step 1: Review open tickets in queue
+
+Step 2: Look over priority among tickets
+
+Step 3: Review SLA to determine severity of ticket
+
+Step 4: Select ticket with highest priority to resolve
+
 </p>
+<br />
+
+
 <p>
-Step 1. Create
+<h2>Stage 2: Assign & Communicate</h2>
+
+Step 5: Review department of ticket and assign ticket to relevant agent
+
+Step 6: Choose a canned response from dropdown menu
+
+Step 7: Add comments/notes within ticket 
+
+Step 8: Select ticket status of open (current)
+</p>
+<br />
+
+
+<p>
+<h2>Stage 3: Working Issue</h2>
+
+Step 9: If necessary, handoff to other team members
+
+Step 10: Update comments when progress is made
+
+Step 11: Modify status when there is a significant change in status
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Step 2. Process
+<h2>Stage 4: Resolution</h2>
+
+Step 12: Resolve ticket’s issue
+
+Step 13: Close the ticket (if you have permission to)
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Step 3. Resolve
-</p>
-<br />
-
