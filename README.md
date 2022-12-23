@@ -2,6 +2,10 @@
 <h1>osTicket Quick Guide</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
+<h2>Install tutorial video (from osTicket):</h2>
+
+### [YouTube: How to Install osTicket v1.12 - Windows IIS](https://www.youtube.com)
+
 
 <h2>How To:</h2>
 <p>
