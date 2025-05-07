@@ -4,7 +4,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Install tutorial video (from osTicket):</h2>
 
-### [YouTube: How to Install osTicket v1.12 - Windows IIS](https://www.youtube.com)
+### [YouTube: How to Install osTicket v1.12 - Windows IIS](https://youtu.be/K7T_JjvEamg)
 
 
 <h2>How To:</h2>
